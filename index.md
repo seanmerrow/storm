@@ -1,7 +1,7 @@
 ---
 title:  "Storm Basketball"
 ---
-# Scedule
+# Schedule
 
 |Day    | Date | Time | Opp | W/L |
 |:------|:-----|:-----|:------|:----|
