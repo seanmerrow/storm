@@ -1,7 +1,9 @@
 ---
 title:  "Storm Basketball"
 ---
-# Schedule
+# Storm Basketball
+
+## Schedule
 
 |Day    | Date | Time | Opp | W/L |
 |:------|:-----|:-----|:------|:----|
@@ -15,7 +17,7 @@ title:  "Storm Basketball"
 | Sun   |1/28  |11:00 |Mystics|     |
 | Sun   |2/4   |10:00 |Sparks |     |
 
-# Coaches
+## Coaches
 ### Head Coach
 **Jimmy Cestrone**
 * [603-966-8041](tel:+1-603-966-8041)
