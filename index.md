@@ -3,11 +3,13 @@ title:  "Storm Basketball"
 ---
 # Storm Basketball
 
+**Record:** 1-0
+
 ## Schedule
 
 |Day    | Date | Time | Opp | W/L |
 |:------|:-----|:-----|:------|:----|
-| Sat   |11/11 |2:30  |Dream  |     |
+| Sat   |11/11 |2:30  |Dream  | <span style="color:green">W</span>    |
 | Sat   |11/18 |1:30  |Mystics|     |
 | Sat   |12/2  |1:30  |Sparks |     |
 | Sun   |12/10 |10:00 |Dream  |     |
