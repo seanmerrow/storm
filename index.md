@@ -7,7 +7,7 @@ title:  "Storm Basketball"
 
 ## Schedule
 
-**Location: ** Nottingham West School
+**Location:** Nottingham West School
 
 |Day    | Date | Time | Opp | W/L |
 |:------|:-----|:-----|:------|:----|
