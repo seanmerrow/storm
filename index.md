@@ -15,8 +15,8 @@ title:  "Storm Basketball"
 | Sat   |11/18 |1:30  |Mystics| <span style="color:green">W</span>  |
 | Sat   |12/2  |1:30  |Sparks | <span style="color:green">W</span>  |
 | Sun   |12/10 |2:00  |Dream  | <span style="color:green">W</span>  |
-| Sun   |12/17 |3:00  |Mystics| <span style="color:black">-</span>  |
-| Sun   |1/7   |3:00  |Sparks | <span style="color:black">-</span>  |
+| Sun   |12/17 |3:00  |Mystics| <span style="color:black">T</span>  |
+| Sun   |1/7   |3:00  |Sparks | <span style="color:green">W</span>  |
 | Sun   |1/21  |2:00  |Dream  | <span style="color:black">-</span>  |
 | Sun   |1/28  |3:00  |Mystics| <span style="color:black">-</span>  |
 | Sun   |2/4   |2:00  |Sparks | <span style="color:black">-</span>  |
