@@ -3,7 +3,7 @@ title:  "Storm Basketball"
 ---
 # Storm Basketball
 
-**Record:** 5-0-1
+**Record:** 7-0-1
 
 ## Schedule
 
