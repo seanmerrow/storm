@@ -7,6 +7,27 @@ title:  "Storm Basketball"
 
 ## Schedule
 
+### Playoffs
+
+**Location:** Hudson Memorial School
+
+|Day    | Date | Time | Opp | W/L |
+|:------|:-----|:-----|:------|:----|
+| Sat   |2/10 |1:00  |Dream  | <span style="color:black">-</span>  |
+| Sun   |2/11 |tbd   |tbd    | <span style="color:black">-</span>  |
+| Wed   |2/14 |7:00  |tbd    | <span style="color:black">-</span>  |
+
+### Championship Game
+
+**Location:** Alvirne High School
+
+|Day    | Date | Time | Opp | W/L |
+|:------|:-----|:-----|:------|:----|
+| Sat   |2/17  |3:30  |tbd    | <span style="color:black">-</span>  |
+
+
+### Regular Season
+
 **Location:** Nottingham West School
 
 |Day    | Date | Time | Opp | W/L |
@@ -19,7 +40,7 @@ title:  "Storm Basketball"
 | Sun   |1/7   |3:00  |Sparks | <span style="color:green">W</span>  |
 | Sun   |1/21  |2:00  |Dream  | <span style="color:green">W</span>  |
 | Sun   |1/28  |3:00  |Mystics| <span style="color:green">W</span>  |
-| Sun   |2/4   |2:00  |Sparks | <span style="color:black">-</span>  |
+| Sun   |2/4   |2:00  |Sparks | <span style="color:green">W</span>  |
 
 ## Coaches
 ### Head Coach
